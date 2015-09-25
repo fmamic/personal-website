@@ -1,0 +1,26 @@
+<!ELEMENT telefonskiimenik (osoba+)>
+
+<!ELEMENT osoba (ime, prezime, telefon+, adresa, mail*, interes*, zanimanje?, stupanjobrazovanja?, drzavljanstvo*)>
+<!ATTLIST osoba id ID #REQUIRED>
+<!ATTLIST osoba oib CDATA #REQUIRED>
+<!ATTLIST osoba kategorija (Prijatelj|Kolega|Obitelj|Bez_Kategorije) #REQUIRED>
+
+<!ELEMENT ime (#PCDATA)>
+<!ELEMENT prezime (#PCDATA)>
+<!ELEMENT telefon (broj)>
+<!ATTLIST telefon tip (Mobilni|Fiksni|Telefaks) "Moblini">
+<!ELEMENT broj (#PCDATA)>
+<!ATTLIST broj pozivnibroj (01|091|092|095|098|099) "01">
+<!ELEMENT adresa (ulica, kucnibroj, mjesto, drzava)>
+<!ELEMENT ulica (#PCDATA)>
+<!ELEMENT kucnibroj (#PCDATA)>
+<!ELEMENT mjesto (naziv, postanskibroj)>
+<!ELEMENT naziv (#PCDATA)>
+<!ELEMENT postanskibroj (#PCDATA)>
+<!ELEMENT drzava (#PCDATA)>
+<!ELEMENT mail (#PCDATA)>
+<!ELEMENT interes (#PCDATA)>
+<!ELEMENT zanimanje (#PCDATA)>
+<!ELEMENT stupanjobrazovanja (#PCDATA)>
+<!ELEMENT drzavljanstvo (#PCDATA)>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://nihao.fer.hr/PPIJBoard/PPIJBoardService.asmx?wsdl" docRef="http://nihao.fer.hr/PPIJBoard/PPIJBoardService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://nihao.fer.hr/PPIJBoard/PPIJBoardService.asmx" xmlns:q1="http://nihao.fer.hr/" binding="q1:PPIJboardServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://nihao.fer.hr/PPIJBoard/PPIJBoardService.asmx" xmlns:q2="http://nihao.fer.hr/" binding="q2:PPIJboardServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

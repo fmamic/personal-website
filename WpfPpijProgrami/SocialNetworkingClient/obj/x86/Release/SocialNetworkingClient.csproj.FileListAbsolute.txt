@@ -1,0 +1,116 @@
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pdb
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.Properties.Resources.resources
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.SocialNetworksManager.resources
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe
+C:\Users\Admin\Desktop\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.pdb
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.pdb
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe.config
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.Properties.Resources.resources
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.SocialNetworksManager.resources
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pdb
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.dll
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\Twitterizer2.dll
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.pdb
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\SocialNetworkingClient\bin\Release\Twitterizer2.xml
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R2\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe.config
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R2\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R2\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe.config
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Twitterizer2.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Twitterizer2.xml
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.Properties.Resources.resources
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.SocialNetworksManager.resources
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.Laos.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.xml
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pssym
+C:\Users\Filip\Desktop\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe.postsharp
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe.config
+L:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe
+L:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.pdb
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pdb
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.dll
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.Laos.dll
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.dll
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Twitterizer2.dll
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.dll
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.pdb
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.xml
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Twitterizer2.xml
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.pdb
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.xml
+L:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pssym
+L:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\ResolveAssemblyReference.cache
+L:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.Properties.Resources.resources
+L:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.SocialNetworksManager.resources
+L:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\GenerateResource.read.1.tlog
+L:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\GenerateResource.write.1.tlog
+L:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe.postsharp
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe.config
+F:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe
+F:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.pdb
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pdb
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.dll
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.Laos.dll
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.dll
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Twitterizer2.dll
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.dll
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.pdb
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.xml
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Twitterizer2.xml
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.pdb
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.xml
+F:\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pssym
+F:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\ResolveAssemblyReference.cache
+F:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.Properties.Resources.resources
+F:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.SocialNetworksManager.resources
+F:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\GenerateResource.read.1.tlog
+F:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\GenerateResource.write.1.tlog
+F:\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe.postsharp
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe.config
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.Properties.Resources.resources
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.SocialNetworksManager.resources
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.exe
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Facebook.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.Laos.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Twitterizer2.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Facebook.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\PostSharp.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Twitterizer2.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Release\SocialNetworkingClient.pssym
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Release\SocialNetworkingClient.exe.postsharp

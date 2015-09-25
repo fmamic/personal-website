@@ -1,0 +1,506 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Filip Mamic  - Software Developer</title>
+
+<link rel="icon" 
+      type="image/png" 
+      href="favicon.png" />     
+      
+<link rel="stylesheet" type="text/css" href="dizajn.css" />
+<link rel="stylesheet" href="nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" type="text/css" href="s/style.css"/>
+<link rel="stylesheet" href="default.css" type="text/css" media="screen" />
+<link href='http://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+
+<script src="scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="scripts/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script src="scripts/workFlip.js" type="text/javascript"></script> 
+<script type="text/javascript" src="scripts/jquery.tinycarousel.min.js"></script>
+<script type="text/javascript" src="scripts/jquery-ui-1.8.2.custom.min.js"></script>
+<script type="text/javascript" src="scripts/pirobox_extended.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#slider1').tinycarousel();	
+	});
+</script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#slider2').tinycarousel();	
+	});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33429866-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+function sendMsg()
+{
+	document.getElementById("button1").innerHTML = '<img src="slike/eloader.gif" />';
+	
+	var xmlhttp;
+	
+	if (window.XMLHttpRequest)
+  	{// code for IE7+, Firefox, Chrome, Opera, Safari
+  		xmlhttp=new XMLHttpRequest();
+  	}	
+	else
+  	{// code for IE6, IE5
+  		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  	}
+ 
+	xmlhttp.onreadystatechange=function()
+  	{
+  		if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    	{
+			document.getElementById("button1").innerHTML = '<img src="slike/success.png" />';
+			document.getElementById('your_name').value = '';
+			document.getElementById("your_email").value = '';
+			document.getElementById('message').value = '';
+			$("button1").fadeOut(3000);
+    	}
+  	}
+	
+	xmlhttp.open("GET", "email.php?name=" + document.getElementById('your_name').value + "&email=" + document.getElementById("your_email").value + "&msg=" + document.getElementById('message').value , true);
+	xmlhttp.send();
+	
+}
+</script>
+<script>
+	$("submit").click(function () {
+  		$("button1").fadeOut(10000);
+  	});
+</script>
+
+</head>
+<body>
+<div id="wrapper">
+	<div id="totop">
+		<img src="slike/back.jpg" id="topimg" onclick="intro()" />
+	</div>
+	<div id="wrapper2">
+	<div class="top">
+    	<div class="left">
+    		<h1 class="logo">
+        	</h1>
+            <p class="paragraf">
+            Hello! Welecome to Filip Mamic's home page, a Software Developer based in Zagreb. Here you can find info about my work, projects, skills and <a href="download/europass.pdf" class="link">link to my cv (pdf)</a>.
+       		</p>
+            <p><br />
+            Feel free to contact me via email <a href="mailto:filip.mamic@fer.hr" class="link">filip.mamic@fer.hr</a> or by filling out contact from using Get In Touch section.
+            </p>
+    	</div>
+    	<div class="right" id="navigation">
+            	<div id="navlink">
+            		<table>
+                		<tr>
+                    		<td class="tablica" id="intro" onclick="intro()">Intro</td>
+                        	<td class="tablica" id="work" onclick="work()">Work</td>
+                        	<td class="tablica" id="skills" onclick="skills()">Skills</td>
+                            <td class="tablica" id="contact" onclick="contact()">Contact</td>
+                        	<td class="tablica" id="cv"><a href="download/europass.pdf" id="l">CV(pdf)</a></td>
+                    	</tr>
+                	</table>
+            	</div>
+             <div id="pwrapper">
+             <p> <br />I'm a student on Faculty of Electrical Engineering and Computing in Zagreb.  My curriculum is Software Engineering but I am also interested in internet security, networks and ethical hacking. 
+             </p>
+             <p><br />
+             My knowledge of computing in general is  very good and i'm always in search for something new and exciting.
+             </p>
+             <p>
+             <br />
+              Computers are fun :)
+             </p>
+             </div>
+             <a href="download/europass.pdf" class="link2">CURRICULUM VITAE DOWNLOAD</a>
+    	</div>
+	</div>
+	<div id="middle">
+    	<div class="left">
+        	<div id="list">
+            	<p id="dsc">
+                Click on project name to see description and images.<br />
+                </p>
+                <table id="tpodaci">
+					<tr class="row">
+                    	<td><a class="pod" onclick="changeText2()">&nbsp; &nbsp; &nbsp;Personal Website</a></td>
+                    </tr>
+                    <tr class="row">
+                    	<td><a class="pod" onclick="changeText1()">&nbsp; &nbsp; &nbsp;FERtel phonebook project</a></td>
+                    </tr>
+                    <tr class="row">
+                    	<td><a class="pod" onclick="changeText4()">&nbsp; &nbsp; &nbsp;Facebook & Twitter app</a></td>
+                    </tr>
+                    <tr class="row">
+                    	<td><a class="pod" onclick="changeText3()">&nbsp; &nbsp; &nbsp;Profesors and Asistants auto schedule</a></td>
+                    </tr>
+                    <tr class="row">
+                    	<td><a class="pod" onclick="changeText5()">&nbsp; &nbsp; &nbsp;Future plans and projects</a></td>
+                    </tr>
+                </table>
+            </div>
+            <div id="paragrafi">
+            <p id="paragraf2">
+            My first website was FERtel for Open Computing course. It's a dynamic webpage that combines technology both on client and server side. 
+            </p>
+            <p id="paragraf3">
+            FERtel is a phonebook with phone numbers, adresses, names, surnames, places of work etc. that are stored in XML as data . One can search data by name or any other information. That was implented with PHP. When you get your list of data, you can click on detail and automaticly the details about that person will be shown. That was implemented with AJAX. Java was used for tranforming basic file into XML.
+            </p>
+            </div>
+            <div id="down">
+            	<a href="fertel/index.html" class="link"><br />Link to page</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+		$(document).ready(function() {
+    		$().piroBox_ext({
+        	piro_speed : 900,
+        	bg_alpha : 0.1,
+        	piro_scroll : true //pirobox always positioned at the center of the page
+    		});
+		});
+		</script>
+        <div class="right">
+        	<div id="gal">
+            <div class="slider-wrapper theme-default">
+    			<div id="slider" class="nivoSlider">
+                    <a href="slike/fertel1.jpg" rel="gallery" class="pirobox_gall" title="fertel">
+    					<img id="slika1" class="slika" src="slike/fertel1.jpg"  />
+					</a>
+        			<a href="slike/fertel2.jpg" rel="gallery" class="pirobox_gall" title="fertel">
+    					<img id="slika2" class="slika" src="slike/fertel2.jpg"  />
+					</a>
+        			<a href="slike/fertel3.jpg" rel="gallery" class="pirobox_gall" title="fertel">
+    					<img id="slika3" class="slika" src="slike/fertel3.jpg"  />
+					</a>
+                   	<a href="slike/fertel4.jpg" rel="gallery" class="pirobox_gall" title="fertel">
+    					<img id="slika4" class="slika" src="slike/fertel4.jpg"  />
+					</a>
+   	 			</div>
+        	</div>
+            </div>
+            <script type="text/javascript">
+				$(window).load(function() {
+    			$('#slider').nivoSlider();
+				});
+			</script>
+            <div id="teh">
+            	<table id="tteh">
+                	<tr>
+                    	<td><img src="slike/ajax.jpg" /></td>
+                    	<td><img src="slike/java.jpg" /></td>
+                    	<td><img src="slike/js.jpg" /></td>
+                        <td><img src="slike/php.jpg" /></td>
+                        <td><img src="slike/ps.jpg" /></td>
+                        <td><img src="slike/xml.jpg" /></td>
+                        <td><img src="slike/xpath.jpg" /></td>
+                    </tr>
+                </table>
+            </div>
+            <div>
+            </div>
+        </div>
+	</div>
+    <div id="middle2">
+    	<div id="left3">
+            <div>
+            	<table id="tview">
+            	<tr>
+                	<td class="sbutt"><img src="slike/great.jpg" onclick="great()" /></td>
+                </tr>
+                <tr>
+                	<td class="sbutt"><img src="slike/good.jpg" onclick="good()" /></td>
+                </tr>
+                <tr>
+                    <td class="sbutt"><img src="slike/beginner.jpg" onclick="beginner()" /></td>
+                </tr>
+                <tr>
+                	<td class="sbutt"><img src="slike/all1.jpg" onclick="all1()" /></td>
+                </tr>
+                </table>
+            </div>
+            <div>
+            	<table id="tview2">
+            	<tr>
+                	<td class="sbutt"><img src="slike/heavy.jpg" onclick="heavy()"/></td>
+                </tr>
+                <tr>
+                	<td class="sbutt"><img src="slike/moderate.jpg" onclick="moderate()"/></td>
+                </tr>
+                <tr>
+                    <td class="sbutt"><img src="slike/light.jpg" onclick="light()"/></td>
+                </tr>
+                <tr>
+                	<td class="sbutt"><img src="slike/all2.jpg" onclick="all2()"/></td>
+                </tr>
+                </table>
+            </div>
+        </div>
+        <div id="right3">
+			<div id="slider1">
+				<a class="buttons prev" href="#">left</a>
+				<div class="viewport">
+					<ul class="overview">
+						<li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">C#<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />One of two best programming languages for me.</span>
+                        </div>
+                        </li>
+                     	<li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">Java<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />One of two best programming languages for me :)</span>
+                        </div>
+                        </li>
+						<li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">C<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />C is great ;)</span>
+                        </div>
+                        <li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">C++<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Little bit messy when it comes to OO paradigm.</span>
+                        </div>
+                        </li>
+                        <li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">XHTML & CSS<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Fun stuff.</span>
+                        </div>
+                        <li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">JavaScript & jQuery<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Simple and powerful.</span>
+                        </div>
+                        </li>
+                        <li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">Python<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Work more quickly and more effectively</span>
+                        </div>
+                        </li>
+                        <li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">SQL<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Very good in sql and good in database design</span>
+                        </div>
+                        </li>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">XML & xPath<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Mainly used for processing data.</span>
+                        </div>
+                        </li>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">PHP<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Server side scripting</span>
+                        </div>
+                        </li>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">Perl<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Feature-rich programming language</span>
+                        </div>
+                        </li>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">Bash<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Main thing for every linux user.</span>
+                        </div>
+                        </li>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">DTD & XSL <br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Definition for html and transforming XML to html</span>
+                        </div>
+                        </li>           
+                        <li class="okvirc">
+                        <div class="para">
+                        	<span class="pokvir">F#<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />In my plan is one serious project in functional language in near future</span>
+                        </div>
+                        </li>
+                        <li class="okvirc">
+                        <div class="para">
+                        	<span class="pokvir">Haskell<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />In my plan is one serious project in functional language in near future</span>
+                        </div>
+                        </li>
+					</ul>
+				</div>
+				<a class="buttons next" href="#">right</a>
+			</div>
+            <div id="slider2">
+				<a class="buttons prev" href="#">left</a>
+				<div class="viewport">
+					<ul class="overview">
+						<li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">Visual Studio with Postsharp and .NET 4.0<br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Main programming tool for me. <br />I use it for C and C++ also.</span>
+                        </div>
+                        </li>
+						<li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">NetBeans <br />and Eclipse<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />I was working with both of them , but i prefer Netbeans.</span>
+                        </div>
+                        </li>
+						<li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">Dreamweare & Photoshop<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Main programming tool for web. Deadly Adobe combination. </span>
+                        </div>
+                        </li>
+                       	<li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">BackTrack<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Linux distribution for ethical hacking. Airmon, autopsy, wireshark, metasploit, nmap ..</span>
+                        </div>
+                        <li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">VMware Worksation<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Great tool for running multiple OS. Very important for ethical hacking.</span>
+                        </div>
+                        <li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">OllyDBG<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Cracking software.</span>
+                        </div>
+                        <li class="okvira">
+                        <div class="para">
+                        	<span class="pokvir">Xampp<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Open source cross-platform web server.</span>
+                        </div>
+                        </li>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">PuTTY and WinSCP<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Client application for connection to servers.</span>
+                        </div>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">Imunes<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Network simulator.</span>
+                        </div>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">MatLab<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Great for mathematical and tehnical computing.</span>
+                        </div>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">Emacs and nano<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Editors for python, perl and bash on linux system.</span>
+                        </div>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">Haskell Platform WinGHCi<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />IDE for haskell.</span>
+                        </div>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">IBM Informix<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />For database and sql.</span>
+                        </div>
+                        </li>
+                        <li class="okvirb">
+                        <div class="para">
+                        	<span class="pokvir">Dev C++ and CodeBloks<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />IDE for C and C++</span>
+                        </div>
+                        </li>
+                        <li class="okvirc">
+                        <div class="para">
+                        	<span class="pokvir">ATLAS<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Asembler, low level of programming. ARM and RISC procesors</span>
+                        </div>
+                        </li>
+                        <li class="okvirc">
+                        <div class="para">
+                        	<span class="pokvir">VHDLLab<br /><br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Tool for describing digital and mixed signals.</span>
+                        </div>
+                        </li>
+                        <li class="okvirc">
+                        <div class="para">
+                        	<span class="pokvir">Electronic Workbench Multisim<br /><br /></span>
+                            <span class="stext"><br />-----------------------------<br /><br />Tool for describing digital and mixed signals.</span>
+                        </div>
+                        </li>
+					</ul>
+				</div>
+				<a class="buttons next" href="#">right</a>
+			</div>
+        </div>
+    </div>
+	<div id="bottom">
+    	<div class="left1">
+        	<table id="podaci">
+            	<tr>
+                	<td class="td1"><img src="slike/email.jpg" /></td><td class="td2">EMAIL ADRESS <br /><a href="mailto:filip.mamic@fer.hr" class="link"> filip.mamic@fer.hr</a></td>
+                    <td class="td1"><img src="slike/adress.jpg" /></td><td class="td2">ADRESS<br /><a class="link" href="https://maps.google.com/maps?q=Zagreba%C4%8Dka+cesta,+Zagreb,+Hrvatska&hl=hr&ie=UTF8&ll=45.806158,15.92891&spn=0.017561,0.046778&sll=35.028028,-106.536655&sspn=0.120186,0.264187&oq=zagre&t=h&hnear=Zagreba%C4%8Dka+cesta,+Zagreb,+Hrvatska&z=16">Zagrebacka Cesta <br /> Zagreb</a></td>
+                </tr>
+                <tr>
+                	<td class="td1"><img src="slike/face.jpg" /></td><td class="td2">FACEBOOK <br /><a class="link" href="http://www.facebook.com/filip.mamic">facebook.com/filip.mamic</a></td>
+                    <td class="td1"><img src="slike/twitter.jpg" /></td><td class="td2">TWITTER <br /><a class="link" href="https://twitter.com/Filip_Mamic">twitter.com/Filip_Mamic</a></td>
+                </tr>
+            </table>
+            <div id="lista">
+            	<ul class="twlista">
+                	<li class="twtext"><a class="link" href="https://twitter.com/Filip_Mamic/status/211959615234121728">fika90: Ireland 1-3 Croatia: Croats On Top - http://lmn8.us/vqj3XZuO</a><br />1:14 AM - 11 Jun 12 via Tweet Button </li>
+                    <li class="twtext"><a class="link" href="https://twitter.com/google/status/216405466081804290">fika90: Celebrating Alan Turing, founding father of computing: http://goo.gl/M6UVb . Try your hand programming our doodle!</a><br />7:40 AM - 23 Jun 12 via web</li>
+                    <li class="twtext"><a class="link" href="https://twitter.com/Filip_Mamic/status/210830610447597568">fika90: Mars One http://mars-one.com  via @MarsOneProject</a><br />10:28 PM - 7 Jun 12 via Tweet Button</li>
+                    <li class="twtext"><a class="link" href="https://twitter.com/Filip_Mamic/status/198482423414136832">fika90: Premier League player for April - Jelavic http://bit.ly/IJnjZC  via @MailOnline</a><br />8:41 PM - 4 May 12 via Tweet Button </li>
+                </ul>
+             </div>
+        </div>
+        <div class="right1">
+            <div id="name">
+            	<label id="nametext" for="your_name">Your Name:</label>
+            	<input type="text" name="your_name" id="your_name" />
+            </div>
+        	<div id="email">
+            	<label id="emailtext" for="your_email">Email Adress:</label>
+            	<input type="text" name="your_email" id="your_email" />
+            </div>
+        	<div id="text">
+            	<div id="messagetext">
+        			<label>Message:</label>
+                </div>
+                <div id="messageform">
+        			<textarea rows="5" cols="40" name="message" id="message"></textarea>
+                </div>
+            </div>
+            <div id="button">
+            	<div id="button1">
+                </div>
+                <div id="button2">
+                	<input type="submit" id="submit" value="" onclick="sendMsg()" />
+                </div>
+            </div>
+        </div>
+	</div>
+    <p class="end">Graphic desig & implementation & development : Filip Mamic<p>
+    <p class="end">2012</p>
+</div>
+</div>
+</body>
+</html>

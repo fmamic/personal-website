@@ -1,0 +1,100 @@
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll.config
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pdb
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Twitterizer2.dll
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Twitterizer2.xml
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll
+C:\Users\Admin\Desktop\PPIJServicesLibrary\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.pdb
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll.config
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pdb
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.dll
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Twitterizer2.dll
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.pdb
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.xml
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\bin\Release\Twitterizer2.xml
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll
+D:\Dropbox\PPIJ2012\Pripreme i sl. za praktični dio\Ivica_R1\PPIJServicesLibrary\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll.config
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Twitterizer2.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Twitterizer2.xml
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.Laos.dll
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.xml
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pssym
+C:\Users\Filip\Desktop\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll.postsharp
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll.config
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pdb
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.dll
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.dll
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.Laos.dll
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Twitterizer2.dll
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.pdb
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.xml
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.xml
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Twitterizer2.xml
+L:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pssym
+L:\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\ResolveAssemblyReference.cache
+L:\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll
+L:\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.pdb
+L:\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll.postsharp
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll.config
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pdb
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.dll
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.dll
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.Laos.dll
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Twitterizer2.dll
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.pdb
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.xml
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.xml
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Twitterizer2.xml
+F:\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pssym
+F:\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\ResolveAssemblyReference.cache
+F:\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll
+F:\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.pdb
+F:\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll.postsharp
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll.config
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Facebook.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.Laos.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Twitterizer2.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Facebook.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PostSharp.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\Twitterizer2.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pssym
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll.postsharp
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll.config
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\PPIJServicesLibrary.pdb
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\Facebook.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\Twitterizer2.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\Facebook.xml
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\Newtonsoft.Json.xml
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Release\Twitterizer2.xml
+L:\WpfPpijProgrami\PPIJServicesLibrary\obj\Release\ResolveAssemblyReference.cache
+L:\WpfPpijProgrami\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\obj\Release\PPIJServicesLibrary.pdb

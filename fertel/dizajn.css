@@ -1,0 +1,449 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	background-image:url(Slike/background.jpg);
+	background-repeat:repeat;
+	background-attachment:fixed;
+	background-position:center;
+}
+
+#header1
+{
+	background-image:url(Slike/headerE.jpg);
+	background-repeat:repeat-x;
+	z-index:1;
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+
+#header2
+{
+	text-align:center;
+	text-decoration:none;
+	z-index:2;
+	padding:0px;
+	margin:0px;
+	border:0px;
+}
+
+#bodyleft
+{
+	background-image:url(Slike/navbar.jpg);
+	margin-top:10px;
+	padding:0px;
+	width:250px;
+	height:450px;
+	float:left;
+}
+
+#bodyleft2
+{
+	background-image:url(Slike/navbar.jpg);
+	border-top:40px;
+	font-family:'Voces', cursive;
+	font-size:17px;
+	padding-left:40px;
+	height:450px;
+	width:250px;
+	margin-top:25px;
+	float:left;
+}
+
+#wrapper2
+{
+	float:left;
+	width:250px;
+	height:1100px;
+}
+
+#bodyright
+{
+	background-image:url(Slike/bodyobrazac.jpg);
+	margin:5px 0px 0px 0px;
+	padding:0px;
+	width:1000px;
+	height:1100px;
+	float:right;
+}
+
+#bodyright2
+{
+	background-image:url(Slike/bodyhome.jpg);
+	margin:5px 0px 0px 0px;
+	padding:0px;
+	width:1000px;
+	height:1100px;
+	float:right;
+}
+
+#footer
+{
+	background-image:url(Slike/footer.jpg);
+	background-repeat:no-repeat;
+	width:1250px;
+	height:300px;
+	clear:both;
+}
+
+#footer1
+{
+	margin:0px;
+	padding:0px;
+	width:360px;
+	height:230px;
+	float:left;
+}
+
+#footer2
+{
+	width:360px;
+	height:230px;
+	float:right;
+}
+
+#footer3
+{
+	width:520px;
+	height:230px;
+	float:right;
+}
+
+#fbtekst
+{
+	font-size:23px;
+	font-family:'Overlock SC', cursive;
+	padding:0px;
+	margin-top:65px;
+	margin-left:75px;
+	border:0px;
+	color:white;
+	font-weight:bold;
+	word-spacing:35px;
+}
+
+#face
+{
+	float:left;
+	margin:50px;
+	margin-top:30px;
+	margin-right:5px;
+	margin-left:120px;
+}
+
+#facebook
+{
+	padding:25px;
+	background-image:url(Slike/facebookB.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	text-align:center;
+	z-index:6;
+}
+
+#facebook:hover
+{
+	background-image:url(Slike/facebook.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+#more
+{
+	padding:70px;
+	margin-top:90px;
+}
+
+#tvit
+{
+	float:left;
+	margin:50px;
+	margin-top:30px;
+	margin-left:60px;
+}
+
+#twitter
+{
+	padding:25px;
+	background-image:url(Slike/twitterB.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	text-align:center;
+	z-index:6;
+}
+
+#twitter:hover
+{
+	background-image:url(Slike/twitter.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+#link
+{
+	float:left;
+	margin:50px;
+	margin-top:30px;
+	margin-left:15px;
+}
+
+#linkedin
+{
+	padding:25px;
+	background-image:url(Slike/linkedinB.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	text-align:center;
+	z-index:6;
+}
+
+#linkedin:hover
+{
+	background-image:url(Slike/linkedin.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+
+#wrapper
+{ 
+	width:1250px;
+	margin:0 auto;
+}
+
+#navigacija
+{
+	margin:0px;
+	padding:0px;
+	font-family:'Voces', cursive;
+	list-style-type:none;
+	z-index:3;
+}
+
+li.prva
+{
+	margin-left:30px;
+	margin-bottom:44px;
+	margin-top:40px;
+}
+
+#but1, #but2, #but3, #but4, #but5, #but12
+{
+	color:#000000;
+	text-decoration:none;
+	padding-bottom:30px;
+	padding-top:30px;
+	padding-left:40px;
+	padding-right:113px;
+}
+
+li.prva a:hover
+{
+	background-image:url(Slike/hover.jpg);
+	background-position:left;
+	text-align:center;
+	background-repeat:no-repeat;
+}
+
+#plinkovi
+{
+	font-size:23px;
+	font-family:'Overlock SC', cursive;
+	color:#FFFFFF;
+	font-weight:bold;
+	margin-left:120px;
+	margin-top:66px;
+}
+
+#autor
+{
+	text-decoration:none;
+	font-size:23px;
+	font-family:'Overlock SC', cursive;
+	color:#FFFFFF;
+	font-weight:bold;
+	margin-left:120px;
+	margin-top:66px;
+}
+
+
+#ime
+{
+	text-decoration:none;
+	font-size:21px;
+	font-family:'Overlock SC', cursive;
+	color:white;
+	font-weight:bold;
+	margin-left:100px;
+	margin-top:30px;
+}
+
+#ime:hover
+{
+	color:#E9E9E9;
+}
+
+.lista2
+{
+	text-decoration:none;
+	padding:0px;
+	margin:0px;
+	margin-left:60px;
+	list-style:none;
+	font-family: 'Overlock SC', cursive;
+	font-size:16px;
+	color:white;
+}
+
+#but6, #but7, #but8
+{
+	list-style:none;
+	text-decoration:none;
+	font-family: 'Overlock SC', cursive;
+	font-size:19px;
+	color:white;
+}
+
+#but6:hover, #but7:hover, #but8:hover
+{
+	color:#EBA741;
+}
+
+#tablica
+{
+	empty-cells:show;
+	font-family: 'Fresca', sans-serif;
+	height:600px;
+	width:900px;
+	margin-left:50px;
+	margin-top:140px;
+}
+
+.dva
+{
+	text-align:right;
+}
+
+.th3
+{
+	text-align:center;
+}
+
+th
+{
+	color:#FF9900;
+	text-align:left;
+	font-weight:bold;
+}
+	
+.dugme
+{
+	margin-left:350px;
+	margin-top:45px;
+}
+
+.reset
+{
+	padding-bottom:20px;
+	padding-top:20px;
+	padding-left:67px;
+	padding-right:67px;
+}
+
+.submit
+{
+	padding-bottom:20px;
+	padding-top:20px;
+	padding-left:67px;
+	padding-right:67px;
+}
+
+#naslov
+{
+	font-family: 'Shadows Into Light Two', cursive;
+	margin-left:60px;
+	margin-top:60px;
+	font-size:39px;
+}
+
+.tekst1
+{
+	font-family: 'Gudea', sans-serif;
+	font-size:20px;
+}
+
+#podnaslov
+{
+	margin-left:50px;
+	width:600px;
+	float:left;
+}
+
+#slika2
+{
+	float:right;
+	width:150px;
+	margin-right:100px;
+	margin-top:50px;
+}
+
+#sadrzaj1
+{
+	width:900px;
+	margin-left:50px;
+	margin-top:230px;
+}
+
+.ulista
+{
+	font-size:20px;
+	font-family: 'Gudea', sans-serif;
+	margin-left:50px;
+	list-style-image:url(Slike/point.png);
+}
+
+.olista
+{
+	font-size:20px;
+	font-family: 'Gudea', sans-serif;
+	margin-left:50px;
+	list-style:none;
+}
+
+.tablica2
+{
+	font-size:20px;
+	font-family: 'Gudea', sans-serif;
+	margin-left:100px;
+	margin-top:50px;
+}
+
+.td2
+{
+	text-align:center;
+	width:200px;
+}
+
+.th2
+{
+	text-align:left;
+	
+}
+
+#tablica3
+{
+	font-size:20px;
+	margin-left:40px;
+	margin-top:50px;
+	font-family:'Voces', cursive;
+}
+
+
+
+
+
+

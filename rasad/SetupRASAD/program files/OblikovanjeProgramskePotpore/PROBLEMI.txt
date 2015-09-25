@@ -1,0 +1,13 @@
+U sluèaju problema prekopirajte sve datoteke backup u datoteke ad.txt prijave.txt i obaveze.txt .
+
+UPOZORENJE !
+
+Pripaziti da se na kraju datoteke u koju ste kopirali ne nalazi prazan red , znaèi crtica mora blinkati 
+u redu gdje je zadnje slovo stringa i kad pokušate strelicom dole ona ostaje na zadnjem slovu stringa .
+
+
+****AKO WINDOWS NE ODOBRAVA KORIŠTENJE NEKE OD DATOTEKA*****
+
+U sluèaju da javlja grešku prilikom otvaranja neke od datoteka onda se locirajte na folder OblikovanjeProgramskePotpore
+te stisnite Properties . Nakon toga tab security i odaberite trenutnog PC-usera te kliknite Edit . Nakon toga stavite kvaèicu 
+na full control .

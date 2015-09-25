@@ -1,0 +1,110 @@
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.exe.config
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.exe
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Twitterizer2.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Facebook.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Twitterizer2.xml
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Facebook.xml
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\Window1.baml
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\Window1.g.cs
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\App.g.cs
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami_MarkupCompile.cache
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami_MarkupCompile.lref
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\MainWindow.baml
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.g.resources
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.Properties.Resources.resources
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.exe
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.pdb
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.exe.config
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.exe
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.pdb
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.exe
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.pdb
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Newtonsoft.Json.dll
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PPIJServicesLibrary.dll
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Twitterizer2.dll
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Facebook.dll
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PPIJServicesLibrary.pdb
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Newtonsoft.Json.xml
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Twitterizer2.xml
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Facebook.xml
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\Window1.baml
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\MainWindow.g.cs
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\Window1.g.cs
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\App.g.cs
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami_MarkupCompile.cache
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\MainWindow.baml
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.g.resources
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.Properties.Resources.resources
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.exe.config
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.exe
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.pdb
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.exe
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.pdb
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Newtonsoft.Json.dll
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PPIJServicesLibrary.dll
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Twitterizer2.dll
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Facebook.dll
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PPIJServicesLibrary.pdb
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Newtonsoft.Json.xml
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Twitterizer2.xml
+L:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Facebook.xml
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\Window1.baml
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\MainWindow.g.cs
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\Window1.g.cs
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\App.g.cs
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami_MarkupCompile.cache
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami_MarkupCompile.lref
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\MainWindow.baml
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.g.resources
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.Properties.Resources.resources
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PostSharp.dll
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PostSharp.Laos.dll
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PostSharp.xml
+H:\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.pssym
+H:\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.exe.postsharp
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.exe.config
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.exe
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.pdb
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.exe
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.pdb
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PostSharp.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PostSharp.Laos.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Twitterizer2.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Facebook.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\PostSharp.xml
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Twitterizer2.xml
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\Facebook.xml
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\bin\Debug\WpfPpijProgrami.pssym
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\MainWindow.baml
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\Window1.baml
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\Window1.g.cs
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\App.g.cs
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami_MarkupCompile.cache
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.g.resources
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.Properties.Resources.resources
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Filip\Desktop\WpfPpijProgrami\WpfPpijProgrami\obj\x86\Debug\WpfPpijProgrami.exe.postsharp

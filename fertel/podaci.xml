@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="pretvorba.xsl"?>
+<!DOCTYPE telefonskiimenik SYSTEM "gramatika.dtd">
+
+<telefonskiimenik>
+  <osoba id="os1" oib="39382716273" kategorija="Prijatelj">
+    <ime>Ivan</ime>
+    <prezime>Bravar</prezime>
+    <telefon tip="Mobilni">
+      <broj pozivnibroj="098">9554658</broj>
+    </telefon>
+    <adresa>
+      <ulica>Zagrebacka</ulica>
+      <kucnibroj>111</kucnibroj>
+      <mjesto>
+        <naziv>Slatinik</naziv>
+        <postanskibroj>322551</postanskibroj>
+      </mjesto>
+      <drzava>Hrvatska</drzava>
+    </adresa>
+    <mail>ivanbravar@mail.com</mail>
+    <interes>Nogomet</interes>
+	<zanimanje>Bravar</zanimanje>
+	<stupanjobrazovanja>NKV</stupanjobrazovanja>
+	<drzavljanstvo>Hrvatsko</drzavljanstvo>
+  </osoba>
+
+  <osoba id="os2" oib="55582716273" kategorija="Kolega">
+    <ime>Marko</ime>
+    <prezime>Vrtlar</prezime>
+    <telefon tip="Fiksni">
+      <broj pozivnibroj="095">344556</broj>
+    </telefon>
+    <adresa>
+      <ulica>Slavonska</ulica>
+      <kucnibroj>123</kucnibroj>
+      <mjesto>
+        <naziv>Slavonski Brod</naziv>
+        <postanskibroj>35000</postanskibroj>
+      </mjesto>
+      <drzava>Hrvatska</drzava>
+    </adresa>
+    <mail>markovrtlar@mail.com</mail>
+    <interes>Čitanje</interes>
+	<zanimanje>Vrtlar</zanimanje>
+	<stupanjobrazovanja>VSS</stupanjobrazovanja>
+	<drzavljanstvo>Talijansko</drzavljanstvo>
+  </osoba>
+
+  <osoba id="os3" oib="43252316273" kategorija="Obitelj">
+    <ime>Luka</ime>
+    <prezime>Šumar</prezime>
+    <telefon tip="Telefaks">
+      <broj pozivnibroj="01">2344123</broj>
+    </telefon>
+    <adresa>
+      <ulica>Zadarska</ulica>
+      <kucnibroj>133</kucnibroj>
+      <mjesto>
+        <naziv>Zadar</naziv>
+        <postanskibroj>23455</postanskibroj>
+      </mjesto>
+      <drzava>Hrvatska</drzava>
+    </adresa>
+    <mail>lukasumar@mail.com</mail>
+    <interes>Košarka</interes>
+	<zanimanje>Šumar</zanimanje>
+	<stupanjobrazovanja>SSS</stupanjobrazovanja>
+	<drzavljanstvo>Hrvatsko</drzavljanstvo>
+  </osoba>
+
+  <osoba id="os4" oib="85444516273" kategorija="Bez">
+    <ime>Branko</ime>
+    <prezime>Stolar</prezime>
+    <telefon tip="Mobilni">
+      <broj pozivnibroj="091">233413</broj>
+    </telefon>
+    <adresa>
+      <ulica>Istarska</ulica>
+      <kucnibroj>221</kucnibroj>
+      <mjesto>
+        <naziv>Pula</naziv>
+        <postanskibroj>422551</postanskibroj>
+      </mjesto>
+      <drzava>Hrvatska</drzava>
+    </adresa>
+    <mail>brankostolar@mail.com</mail>
+    <interes>Plivanje</interes>
+	<zanimanje>Stolar</zanimanje>
+	<stupanjobrazovanja>VŠS</stupanjobrazovanja>
+	<drzavljanstvo>Hrvatsko</drzavljanstvo>
+  </osoba>
+
+  <osoba id="os5" oib="254256273" kategorija="Prijatelj">
+    <ime>Matej</ime>
+    <prezime>Pokrivač</prezime>
+    <telefon tip="Fiksni">
+      <broj pozivnibroj="092">5444785</broj>
+    </telefon>
+    <adresa>
+      <ulica>Ilica</ulica>
+      <kucnibroj>131</kucnibroj>
+      <mjesto>
+        <naziv>Zagreb</naziv>
+        <postanskibroj>10000</postanskibroj>
+      </mjesto>
+      <drzava>Hrvatska</drzava>
+    </adresa>
+    <mail>matejpokrivac@mail.com</mail>
+    <interes>Nogomet</interes>
+	<zanimanje>Pokrivač</zanimanje>
+	<stupanjobrazovanja>NKV</stupanjobrazovanja>
+	<drzavljanstvo>Hrvatsko</drzavljanstvo>
+  </osoba>
+  
+  <osoba id="os6" oib="32212456112" kategorija="Prijatelj">
+    <ime>Filip</ime>
+    <prezime>Zidar</prezime>
+    <telefon tip="Telefaks">
+      <broj pozivnibroj="098">3344452</broj>
+    </telefon>
+    <adresa>
+      <ulica>Vukovarska</ulica>
+      <kucnibroj>331</kucnibroj>
+      <mjesto>
+        <naziv>Zagreb</naziv>
+        <postanskibroj>10000</postanskibroj>
+      </mjesto>
+      <drzava>Hrvatska</drzava>
+    </adresa>
+    <mail></mail>
+	<interes></interes>
+	<zanimanje>Zidar</zanimanje>
+	<stupanjobrazovanja>VSS</stupanjobrazovanja>
+	<drzavljanstvo>Njemačko</drzavljanstvo>
+  </osoba>
+</telefonskiimenik>
+	
+	
+	

@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<LINK rel="stylesheet" type="text/css" href="dizajn.css" >
+<link href='http://fonts.googleapis.com/css?family=Voces&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Fresca&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+<title>FERtel - Pretraživanje</title>
+</head>
+
+<body>
+<div id="header1">
+	<div id="header2">
+    <img src="Slike/header.jpg" alt="header">
+    </div>
+</div>
+<div id="wrapper">
+	<div id="bodyleft">
+    <ul id="navigacija">
+    	<li class="prva"><a id="but1" href="index.html">Naslovnica</a></li>
+        <li class="prva"><a id="but2" href="podaci.xml">Podaci</a></li>
+        <li class="prva"><a id="but3" href="obrazac.html">Pretraživanje</a></li>
+        <li class="prva"><a id="but4" href="http://www.rasip.fer.hr">RASIP</a></li>
+        <li class="prva"><a id="but5" href="http://www.fer.unizg.hr" target="_blank">FER</a></li>
+        <li class="prva"><a id="but12" href="mailto:filip.mamic@fer.hr">Autor</a></li>
+    </ul>
+    </div>
+	<div id="bodyright">
+    <form>
+   	  	<table id="tablica" cellspacing="20">
+        	<tr>
+            	<th>Osoba</th>
+            </tr>
+            <tr>
+            	<td></td>
+            	<td class="jedan"><div align="right">OIB :</div></td>
+            	<td><input type="text" name="oib" ></td>
+            </tr>
+            <tr>
+            	<td></td>
+            	<td class="jedan"><div align="right">Ime :</div></td>
+            	<td><input type="text" name="ime" ></td>
+                <td class="dva">Prezime :</td>
+                <td><input type="text" name="prezime" ></td>
+            </tr>
+            <tr>
+            	<td></td>
+            	<td class="jedan"><div align="right">Kategorija :</div></td>
+                <td align="center"><input type="checkbox" name="kategorija[]" value="Prijatelj" id="prijatelj"><label for="prijatelj">Prijatelj</label></td>
+                <td align="left"><input type="checkbox" name="kategorija[]" value="Kolega" id="kolega"><label for="kolega">Kolega</label></td>
+                <td align="left"><input type="checkbox" name="kategorija[]" value="Obitelj" id="obitelj"><label for="obitelj">Obitelj</label></td>
+                <td align="left"><input type="checkbox" name="kategorija[]" value="Bez" id="bez"><label for="bez">Bez</label></td>
+            </tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr>
+            	<th>Telefon</th>
+            </tr>
+            <tr>
+            	<td></td>
+            	<td class="jedan"><div align="right">Tip :</div></td>
+            	<td align="center"><input type="radio" name="tip" value="Mobilni" id="mobilni"><label for="mobilni">Mobilni</label></td>
+                <td><input type="radio" name="tip" value="Fiksni" id="fiksni"><label for="fiksni">Fiksni</label></td>
+                <td><input type="radio" name="tip" value="Telefaks" id="telefaks"><label for="telefaks">Telefaks</label></td>
+            </tr>
+            <tr>
+            	<td class="jedan"></td>
+                <td width="150"><div align="right">Pozivni broj :</div></td>
+                <td align="center">
+               	<select name="pozivnibroj">
+                	<option value="099">099</option>
+                    <option value="098" selected>098</option>
+                    <option value="095">095</option>
+                    <option value="092">092</option>
+                    <option value="091">091</option>
+                    <option value="01">01</option>
+                </select></td>
+                <td class="dva">Broj :</td>
+                <td><input type="text" name="broj"></td>
+            </tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr><td></td></tr>
+            <tr>
+            	<th>Adresa</th>
+            </tr>
+            <tr>
+            	<td></td>
+                <td class="jedan"><div align="right">Ulica :</div></td>
+                <td><input type="text" name="ulica"></td>
+                <td class="dva">Kućni broj :</td>
+               	<td><input type="text" name="kucnibroj"></td> 
+            </tr>
+            <tr>
+            	<td></td>
+                <td class="jedan"><div align="right">Mjesto :</div></td>
+                <td><input type="text" name="mjesto"></td>
+                <td class="dva">Poštanski broj :</td>
+               	<td><input type="text" name="postanskibroj"></td> 
+            </tr>
+            <tr>
+            	<td></td>
+                <td><div align="right">Država :</div></td>
+                <td><input type="text" name="drzava"></td>
+            	<td class="dva">Mail adresa :</td>
+                <td><input type="text" name="mail"></td>
+            </tr>
+            <tr>
+            	<td></td>
+            	<td><div align="right">Zanimanje :</div></td>
+                <td><input type="text" name="zanimanje"></td>
+                <td class="dva">Stupanj obrazovanja :</td>
+                <td><input type="text" name="stupanjobrazovanja"></td>
+            <tr>
+            	<td></td>
+            	<td class="jedan"><div align="right">Interesi :</div></td>
+                <td><input type="text" name="interes"></td>
+            </tr>
+            <tr>
+            	<td></td>
+            	<td><div align="right">Drzavljanstvo</div></td> 
+                <td><input type="text" name="drzavljanstvo"></td>
+            </tr>
+    	</table>
+   		<p class="dugme">
+       		<input class="submit" type="submit" value="Pretraga">
+      		<input class="reset" type="reset" value="Poništi">
+    	</p>
+    </form>
+	</div>
+	<div id="footer">
+    	<div id="footer1">
+        	<p id="plinkovi">
+        	Linkovi
+        	</p>
+            <p id="listalinkovi">
+       	 	 <ul>
+            		<li class="lista2"><a id="but6" href="http://www.google.com">Google </a></li>
+                	<li class="lista2"><a id="but7" href="http://www.bing.com"> Bing </a></li>
+                	<li class="lista2"><a id="but8" href="http://www.fer2.net"> Fer2.net </a></li>
+   	 	 	 </ul>
+            </p>
+        </div>
+        <div id="footer2">
+        	<p id="autor">
+            Autor
+            </p>
+            <p id="ime">
+            Filip Mamić 
+            </p>
+        </div>
+        <div id="footer3">
+        	<p id="fbtekst">
+            Facebook Twitter Linkedin
+            </p>
+       	  	<p id="face">
+        	<a id="facebook" href="http://www.facebook.com"></a>
+            </p>
+            <p id="tvit">
+            <a id="twitter" href="http://www.twitter.com"></a>
+            </p>
+            <p id="link">
+            <a id="linkedin" href="http://www.linkedin.com"></a>
+            </p>
+        </div>
+	</div>
+</div>
+</body>
+</html>

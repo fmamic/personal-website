@@ -1,0 +1,7 @@
+A;36453;Filip;Mamic;2.1
+D;36452;Antonio;Grudicek;1.5
+A;36451;Vedran;Matas;1.2
+D;36450;Adrijan;Jaksic;1.6
+D;36455;Niko;Boban;1.9
+A;36456;Matej;Petrovecki;1.45
+A;36457;Ivan;Zuzak;1.7

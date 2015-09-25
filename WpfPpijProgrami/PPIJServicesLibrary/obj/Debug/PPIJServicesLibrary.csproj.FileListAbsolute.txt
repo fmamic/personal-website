@@ -1,0 +1,72 @@
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll.config
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.pdb
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.dll
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.pdb
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\bin\Debug\Twitterizer2.dll
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.pdb
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Projekti\PPIJServicesLibrary\PPIJServicesLibrary\bin\Debug\Twitterizer2.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll.config
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\Facebook.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\Twitterizer2.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\Facebook.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\bin\Debug\Twitterizer2.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll.config
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Facebook.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Twitterizer2.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Facebook.xml
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Twitterizer2.xml
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.pdb
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll.config
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.pdb
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Facebook.dll
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.dll
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Twitterizer2.dll
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Facebook.xml
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.xml
+H:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Twitterizer2.xml
+H:\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.dll
+H:\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.pdb
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll.config
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.pdb
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Facebook.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Twitterizer2.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Facebook.xml
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.xml
+L:\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Twitterizer2.xml
+L:\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\ResolveAssemblyReference.cache
+L:\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.dll
+L:\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll.config
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Facebook.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Twitterizer2.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Facebook.xml
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\bin\Debug\Twitterizer2.xml
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\WpfPpijProgrami\PPIJServicesLibrary\obj\Debug\PPIJServicesLibrary.pdb

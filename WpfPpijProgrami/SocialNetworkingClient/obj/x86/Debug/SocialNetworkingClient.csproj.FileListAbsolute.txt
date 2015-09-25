@@ -1,0 +1,47 @@
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\SocialNetworkingClient.exe.config
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\SocialNetworkingClient.exe
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\SocialNetworkingClient.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\Facebook.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\PostSharp.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\PostSharp.Laos.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\Twitterizer2.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\Facebook.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\PostSharp.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\Twitterizer2.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\bin\Debug\SocialNetworkingClient.pssym
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.Properties.Resources.resources
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.SocialNetworksManager.resources
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.exe
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.pdb
+C:\Users\Filip\Desktop\Labosi\PPIJSocialNetworking\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.exe.postsharp
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.Properties.Resources.resources
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.SocialNetworksManager.resources
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.exe
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\SocialNetworkingClient.exe.config
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\SocialNetworkingClient.exe
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\SocialNetworkingClient.pdb
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\Facebook.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\PostSharp.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\PostSharp.Laos.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\PPIJServicesLibrary.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\Twitterizer2.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\PPIJServicesLibrary.pdb
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\Facebook.xml
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\PostSharp.xml
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\Twitterizer2.xml
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\bin\Debug\SocialNetworkingClient.pssym
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.pdb
+C:\Users\Filip\Documents\Visual Studio 2010\Projects\WpfPpijProgrami\SocialNetworkingClient\obj\x86\Debug\SocialNetworkingClient.exe.postsharp
